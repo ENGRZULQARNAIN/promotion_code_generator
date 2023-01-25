@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1674576354 source:d:\openendedlab\main.cpp
+	<iostream>
+	"classfile.h"
+
+1674580114 d:\openendedlab\classfile.h
+	<string>
+
+1674576896 source:d:\openendedlab\sourcefile.cpp
+	<iostream>
+	"classfile.h"
+
+1674576354 source:d:\prac_openendedlab\main.cpp
+	<iostream>
+	"classfile.h"
+
+1674584493 d:\prac_openendedlab\classfile.h
+	<string>
+
