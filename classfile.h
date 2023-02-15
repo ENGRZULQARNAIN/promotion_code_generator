@@ -57,6 +57,10 @@ public:
   int hashFunction(int arr[]);
   void promo_code_encrypt_1(int arr[]);
   void promo_code_encrypt_2();
-  //void SignIn_fun();
+  void promo_code_decrypt_1();
+  void promo_code_decrypt_2();
+  void coupon_use();
+  bool SignIn_fun();
+  void well_come_page();
   void display();
 };

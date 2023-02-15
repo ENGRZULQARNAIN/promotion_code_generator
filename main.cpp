@@ -6,7 +6,12 @@ using namespace std;
 
 int main(){
      Operations *obj_ =new Operations();
-     obj_->SignUp_fun();
-     obj_->display();
+      obj_->well_come_page();
     return 0;
 }
+
+
+
+
+
+
