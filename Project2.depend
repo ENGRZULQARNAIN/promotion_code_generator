@@ -14,11 +14,25 @@
 	<iostream>
 	"classfile.h"
 
-1674674247 d:\prac_openendedlab\classfile.h
+1674759906 d:\prac_openendedlab\classfile.h
 	<string>
 
-1674674552 source:d:\prac_openendedlab\sourcefile.cpp
+1674760347 source:d:\prac_openendedlab\sourcefile.cpp
 	<iostream>
 	<string>
 	"classfile.h"
+	<cstdio>
+
+1674761404 source:d:\group g_oel\main.cpp
+	<iostream>
+	"classfile.h"
+
+1674799171 d:\group g_oel\classfile.h
+	<string>
+
+1674799271 source:d:\group g_oel\sourcefile.cpp
+	<iostream>
+	<string>
+	"classfile.h"
+	<cstdio>
 

@@ -1,0 +1,18 @@
+Hi,
+this is a simple data structure project using c++ language. Based on “Encryption Decryption”
+
+Problem statement:
+            An E-commerce website which gives an opportunity to the users of “promotion code”. A promotion code, also known as a coupon code or promo code, is a series of letters or numbers that can be used to receive a discount or special offer when making a purchase online. They are typically entered at checkout on a merchant's website to redeem the offer. Promotion codes are often used for sales, clearance items, or to offer a discount on a specific product or service.
+Once the promo code a used by a specific user it will become useless. 
+1.	Using encryption /decryption to generate a promotional code for a specific customer under some conditions like it would be first time user of the website etc.
+2.	Provide a sign-up form for the customer.
+3.	Provide log in screen for the customer.
+
+Objectives:
+1.	To generate a promotional code for those customers who’s are the new users.
+2.	To facilitate the new user from the sign-up form.
+3.	The availability of “log-in” screen it will be used if the user wants to sign in for the next time to the website.
+
+USING LANGUAGE AND DATA STURCTURES:
+1.LANGUAGE: C++.
+2.DATA STRUCTURE:   HASH TABLE(QUADRATIC PROBING).
